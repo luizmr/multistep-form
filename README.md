@@ -4,7 +4,7 @@
 
 ## 💻 About project
 
-Project built to study how a react form can be validated using custom hooks.
+Project built to study how a multi-step form works using ReactJS and class based components.
 
 ## 🛠 Technology
 
